@@ -1,0 +1,8 @@
+# Usage: pip install -r requirements.txt
+
+Flask
+scrapy
+scrapy_splash
+pymongo
+selenium
+six
