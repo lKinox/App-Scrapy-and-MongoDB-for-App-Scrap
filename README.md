@@ -8,6 +8,6 @@ Sirvió para dar contenido a mi app "App Scrap"
 
 [App Scrap](https://github.com/lKinox/App-Scrap)
 
-Demo disponible en: 
+Demo disponible: 
 
 [Demo](https://appscrap.netlify.app/)
