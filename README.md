@@ -6,8 +6,8 @@ Esta API, construida con Flask usando la librería Scrapy y MongoDB como sistema
 
 Sirvió para dar contenido a mi app "App Scrap"
 
-[link](https://github.com/lKinox/App-Scrap)
+[App Scrap](https://github.com/lKinox/App-Scrap)
 
 Demo disponible en: 
 
-[link](https://appscrap.netlify.app/)
+[Demo](https://appscrap.netlify.app/)
